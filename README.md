@@ -12,3 +12,14 @@
 - Exactly correct code will earn 20~50 extra points for the corresponding exercise according to the quality of modulization and comments.
 
 ## Plagiarism is not allowed!
+
+# Detailed steps about pull request for merge #
+1. With your GitHub account, *fork* this repository as /yourAccount/DS1081midtermCODE/, which is a new copy of this repository.
+2. By GitHub Desktop tool, *clone* the above copy on your own computer and then click "Show in Explorer" to its folder.
+3. Choose one of the folders /DS1081midtermCODE/ex0#/, create a folder named by *studentID*, e.g., /10712345/.
+4. In the folder /DS1081midtermCODE/ex0#/*studentID*/, create DS1ex#_*studentID*.ipynb by Jupyter Notebook. 
+5. By GitHub Desktop tool, *commit* and then *push* the new version to your own GitHub account.
+6. With your GitHub account, submit a *Pull Request* to ask me whether your folder can be merged into my repository.
+7. Wait for my check and then you will see your folder in this repository with my approval.
+
+> *Feel free to contact me via e-mail immediately when you encounter any difficulty.*
