@@ -5,7 +5,7 @@
 ## Deadline: 2019/10/29 23:59
 
 ### Requirements:
-1. Use the IDE of Anaconda with Jupyter Notebook to write codes and save your file named as "DS1ex#_StudentID.ipynb". You must modulize your codes into code segments and add comments for each.
+1. Use the IDE of Anaconda with Jupyter Notebook to write codes, where the first line must have your student ID and name. Save your file named as "DS1ex#_StudentID.ipynb". You must modulize your codes into code segments and add comments for each.
 2. Use your GitHub account to fork this repository, create a folder named by your student ID, put the .ipynb file in the folder and then submit a pull request. Violations of deadline or requirements will not be merged.
 
 ### Bonus:
